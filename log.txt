@@ -1,0 +1,1177 @@
+true 677 sign # line 1 row 13
+true 227 sign $ line 1 row 90
+false 730 line 1 row 98
+true 35 sign * line 1 row 103
+true 318 sign / line 1 row 112
+false 92 line 1 row 126
+false 166 line 1 row 131
+true 863 sign * line 2 row 8
+true 36 sign * line 2 row 36
+true 956 sign * line 2 row 51
+true 337 sign % line 2 row 56
+true 692 sign * line 2 row 66
+true 744 sign * line 2 row 84
+true 187 sign @ line 2 row 117
+true 346 sign % line 3 row 3
+true 475 sign * line 3 row 15
+true 440 sign + line 3 row 19
+true 903 sign & line 3 row 26
+true 996 sign * line 3 row 32
+true 404 sign + line 3 row 39
+true 395 sign * line 3 row 44
+true 253 sign & line 3 row 74
+false 223 line 3 row 78
+true 453 sign * line 3 row 102
+true 535 sign * line 3 row 107
+true 265 sign - line 3 row 121
+true 290 sign $ line 3 row 129
+true 470 sign * line 4 row 10
+true 148 sign / line 4 row 57
+true 40 sign * line 4 row 63
+false 361 line 4 row 69
+false 883 line 4 row 91
+true 649 sign * line 4 row 125
+true 587 sign * line 5 row 14
+true 848 sign * line 5 row 38
+true 415 sign * line 5 row 99
+true 445 sign * line 5 row 106
+true 947 sign % line 5 row 113
+true 509 sign + line 5 row 132
+true 170 sign - line 6 row 7
+true 922 sign # line 6 row 24
+true 79 sign * line 6 row 29
+true 660 sign * line 6 row 32
+true 87 sign * line 6 row 42
+true 802 sign / line 6 row 47
+false 669 line 6 row 77
+true 152 sign $ line 6 row 81
+true 867 sign - line 6 row 87
+true 926 sign * line 6 row 127
+false 53 line 6 row 136
+true 319 sign # line 7 row 12
+false 915 line 7 row 17
+true 846 sign * line 7 row 36
+false 120 line 7 row 54
+true 870 sign * line 7 row 60
+true 874 sign * line 7 row 64
+true 610 sign * line 7 row 69
+false 577 line 7 row 94
+true 825 sign * line 7 row 102
+true 430 sign $ line 7 row 110
+true 689 sign * line 7 row 119
+true 700 sign * line 8 row 23
+true 693 sign * line 8 row 115
+true 734 sign & line 8 row 124
+true 59 sign * line 8 row 136
+true 247 sign * line 9 row 11
+true 444 sign * line 9 row 32
+true 768 sign * line 9 row 39
+true 569 sign $ line 9 row 46
+false 248 line 9 row 50
+true 430 sign & line 9 row 55
+true 565 sign * line 9 row 60
+true 82 sign * line 9 row 68
+true 525 sign & line 9 row 82
+true 794 sign / line 9 row 88
+true 171 sign * line 9 row 94
+true 160 sign * line 9 row 119
+true 39 sign * line 9 row 130
+true 25 sign @ line 9 row 133
+true 560 sign * line 10 row 21
+true 56 sign * line 10 row 36
+true 70 sign - line 10 row 73
+true 397 sign = line 10 row 99
+false 571 line 10 row 106
+true 297 sign * line 10 row 114
+true 422 sign * line 10 row 136
+true 338 sign * line 11 row 7
+true 481 sign * line 11 row 12
+true 220 sign # line 11 row 29
+true 116 sign * line 11 row 47
+true 194 sign * line 11 row 59
+true 529 sign * line 11 row 94
+true 381 sign * line 11 row 131
+true 892 sign * line 12 row 2
+false 708 line 12 row 20
+true 856 sign / line 12 row 24
+false 405 line 12 row 34
+true 324 sign * line 12 row 51
+true 922 sign + line 12 row 74
+true 60 sign # line 12 row 81
+true 288 sign = line 12 row 85
+true 810 sign - line 12 row 90
+true 747 sign * line 12 row 102
+true 876 sign * line 12 row 118
+true 180 sign / line 12 row 127
+true 41 sign * line 13 row 8
+true 456 sign / line 13 row 16
+false 652 line 13 row 43
+true 48 sign * line 13 row 64
+true 110 sign & line 13 row 68
+true 199 sign * line 13 row 95
+true 824 sign * line 13 row 114
+true 471 sign / line 13 row 123
+true 261 sign * line 13 row 134
+true 317 sign * line 14 row 3
+true 1 sign + line 14 row 13
+false 29 line 14 row 22
+true 316 sign & line 14 row 27
+true 368 sign & line 14 row 34
+true 365 sign - line 14 row 52
+true 212 sign * line 14 row 58
+true 292 sign * line 14 row 99
+true 70 sign * line 14 row 104
+true 616 sign % line 15 row 47
+true 596 sign * line 15 row 63
+true 699 sign * line 15 row 75
+true 978 sign * line 15 row 79
+true 259 sign * line 15 row 83
+true 309 sign * line 15 row 90
+true 660 sign * line 15 row 95
+true 90 sign & line 15 row 114
+true 634 sign - line 15 row 120
+true 631 sign % line 15 row 128
+true 987 sign * line 15 row 137
+false 140 line 16 row 1
+true 2 sign * line 16 row 12
+true 285 sign * line 16 row 18
+true 836 sign & line 16 row 24
+true 13 sign * line 16 row 38
+true 8 sign * line 16 row 41
+true 264 sign * line 16 row 55
+true 945 sign * line 16 row 71
+true 323 sign * line 16 row 102
+true 514 sign + line 16 row 109
+true 634 sign * line 17 row 14
+true 816 sign * line 17 row 30
+false 41 line 17 row 60
+true 670 sign @ line 17 row 80
+true 648 sign * line 17 row 89
+true 343 sign & line 18 row 7
+true 221 sign * line 18 row 19
+true 157 sign * line 18 row 26
+false 492 line 18 row 44
+true 319 sign * line 18 row 48
+true 659 sign = line 18 row 65
+true 238 sign * line 18 row 74
+true 113 sign * line 18 row 110
+true 187 sign # line 18 row 120
+true 863 sign * line 18 row 126
+true 937 sign * line 19 row 32
+true 471 sign = line 19 row 39
+true 274 sign * line 19 row 54
+true 244 sign / line 19 row 83
+false 22 line 19 row 92
+false 332 line 19 row 96
+true 908 sign - line 19 row 102
+true 610 sign * line 20 row 8
+true 670 sign * line 20 row 24
+false 693 line 20 row 28
+true 182 sign * line 20 row 49
+true 618 sign / line 20 row 58
+true 865 sign * line 20 row 74
+true 678 sign * line 20 row 109
+true 85 sign * line 20 row 120
+true 948 sign * line 20 row 127
+true 334 sign / line 21 row 14
+true 21 sign * line 21 row 38
+true 853 sign * line 21 row 41
+true 491 sign * line 21 row 53
+true 524 sign = line 21 row 64
+true 494 sign * line 21 row 82
+true 794 sign * line 21 row 93
+true 401 sign * line 21 row 101
+true 327 sign * line 21 row 123
+true 270 sign * line 22 row 9
+true 164 sign / line 22 row 32
+false 235 line 22 row 78
+true 142 sign $ line 22 row 114
+true 738 sign * line 22 row 131
+true 579 sign & line 23 row 4
+true 823 sign * line 23 row 24
+true 596 sign * line 23 row 42
+true 263 sign + line 23 row 54
+true 797 sign # line 23 row 58
+true 916 sign * line 23 row 66
+true 632 sign * line 23 row 83
+true 618 sign - line 23 row 88
+true 335 sign * line 23 row 93
+true 996 sign * line 23 row 97
+true 504 sign * line 23 row 106
+true 853 sign * line 23 row 135
+true 646 sign * line 24 row 9
+true 872 sign * line 24 row 14
+true 805 sign @ line 24 row 20
+true 788 sign - line 24 row 32
+true 985 sign * line 24 row 76
+true 440 sign * line 24 row 110
+true 310 sign * line 24 row 120
+true 826 sign + line 24 row 125
+true 54 sign * line 25 row 25
+true 104 sign $ line 25 row 37
+true 238 sign * line 25 row 43
+true 787 sign * line 25 row 55
+true 79 sign * line 25 row 69
+true 449 sign * line 25 row 80
+true 674 sign * line 25 row 84
+true 204 sign * line 25 row 95
+true 808 sign + line 25 row 132
+true 949 sign $ line 26 row 4
+true 396 sign * line 26 row 11
+true 664 sign / line 26 row 32
+false 626 line 26 row 49
+false 923 line 26 row 99
+true 30 sign * line 26 row 104
+true 482 sign * line 26 row 110
+true 111 sign * line 26 row 121
+true 387 sign * line 27 row 54
+false 333 line 27 row 66
+true 750 sign * line 27 row 83
+true 737 sign * line 27 row 93
+false 890 line 27 row 125
+true 707 sign @ line 27 row 130
+true 264 sign * line 28 row 10
+true 247 sign * line 28 row 17
+true 416 sign + line 28 row 25
+true 177 sign * line 28 row 47
+true 55 sign * line 28 row 61
+true 251 sign - line 28 row 73
+true 911 sign @ line 28 row 78
+true 88 sign * line 28 row 106
+true 741 sign * line 28 row 111
+true 232 sign / line 29 row 57
+false 737 line 29 row 68
+true 597 sign * line 29 row 86
+true 24 sign * line 29 row 137
+true 456 sign * line 30 row 18
+true 109 sign - line 30 row 33
+false 907 line 30 row 38
+true 656 sign * line 30 row 63
+true 855 sign * line 30 row 108
+true 451 sign * line 30 row 112
+true 958 sign = line 30 row 116
+true 783 sign + line 30 row 121
+true 854 sign * line 30 row 133
+true 65 sign * line 31 row 6
+true 188 sign # line 31 row 14
+false 894 line 31 row 24
+true 380 sign % line 31 row 78
+false 302 line 31 row 82
+true 133 sign * line 31 row 86
+true 507 sign - line 31 row 91
+true 227 sign * line 31 row 126
+false 71 line 32 row 3
+true 14 sign * line 32 row 9
+true 774 sign / line 32 row 29
+true 109 sign % line 32 row 35
+true 821 sign @ line 32 row 40
+true 182 sign * line 32 row 46
+true 85 sign @ line 32 row 56
+true 256 sign & line 32 row 61
+true 314 sign = line 32 row 70
+false 148 line 32 row 96
+true 824 sign * line 32 row 103
+true 591 sign * line 32 row 107
+false 653 line 32 row 116
+true 435 sign & line 32 row 135
+true 228 sign + line 33 row 83
+true 32 sign $ line 33 row 100
+true 989 sign % line 33 row 121
+true 121 sign * line 33 row 126
+true 64 sign $ line 34 row 24
+true 545 sign * line 34 row 33
+true 458 sign * line 34 row 46
+true 735 sign * line 34 row 55
+true 435 sign * line 34 row 62
+false 869 line 34 row 76
+true 307 sign * line 34 row 108
+false 74 line 35 row 1
+true 209 sign # line 35 row 6
+true 885 sign / line 35 row 12
+true 368 sign & line 35 row 39
+true 86 sign * line 35 row 43
+true 965 sign * line 35 row 70
+false 919 line 35 row 94
+true 226 sign = line 35 row 99
+false 990 line 35 row 118
+true 381 sign * line 35 row 131
+true 566 sign * line 35 row 135
+false 970 line 36 row 20
+true 150 sign = line 36 row 24
+true 910 sign * line 36 row 31
+true 973 sign * line 36 row 50
+true 502 sign * line 36 row 54
+true 603 sign * line 36 row 63
+true 429 sign * line 36 row 76
+true 557 sign * line 36 row 81
+true 665 sign * line 36 row 104
+true 307 sign * line 36 row 114
+true 486 sign * line 37 row 14
+true 514 sign = line 37 row 35
+true 621 sign $ line 37 row 58
+true 59 sign # line 37 row 67
+true 654 sign * line 37 row 70
+true 756 sign # line 37 row 88
+true 584 sign * line 37 row 94
+true 453 sign * line 37 row 108
+false 250 line 37 row 119
+true 328 sign * line 37 row 125
+true 995 sign * line 37 row 131
+true 997 sign - line 38 row 5
+true 316 sign * line 38 row 41
+true 533 sign * line 38 row 50
+true 100 sign * line 38 row 77
+true 485 sign * line 38 row 82
+true 955 sign % line 38 row 102
+true 792 sign * line 38 row 113
+true 420 sign * line 39 row 10
+true 111 sign * line 39 row 17
+true 273 sign * line 39 row 30
+true 430 sign / line 39 row 34
+true 889 sign * line 39 row 45
+false 824 line 39 row 58
+true 338 sign * line 39 row 63
+true 91 sign * line 39 row 68
+false 55 line 39 row 71
+false 656 line 39 row 86
+true 70 sign * line 39 row 93
+true 936 sign * line 39 row 126
+true 713 sign * line 39 row 132
+false 647 line 40 row 21
+true 484 sign * line 40 row 38
+true 376 sign # line 40 row 75
+true 425 sign + line 40 row 104
+false 613 line 40 row 108
+true 568 sign # line 41 row 4
+true 151 sign * line 41 row 11
+false 95 line 41 row 26
+true 66 sign * line 41 row 45
+true 818 sign * line 41 row 52
+false 453 line 41 row 57
+true 735 sign * line 41 row 61
+true 817 sign * line 41 row 66
+true 319 sign * line 41 row 70
+true 568 sign * line 41 row 79
+true 764 sign * line 41 row 83
+true 242 sign * line 41 row 97
+true 829 sign * line 41 row 119
+true 1 sign * line 41 row 123
+true 216 sign $ line 42 row 15
+true 345 sign * line 42 row 22
+true 549 sign * line 42 row 75
+true 251 sign * line 42 row 90
+true 44 sign * line 42 row 111
+true 352 sign * line 42 row 125
+true 597 sign * line 42 row 134
+true 7 sign * line 42 row 138
+true 138 sign * line 43 row 6
+true 240 sign * line 43 row 11
+false 34 line 43 row 38
+true 197 sign * line 43 row 42
+true 988 sign * line 43 row 46
+true 760 sign * line 43 row 54
+true 981 sign + line 43 row 59
+true 682 sign * line 43 row 71
+true 263 sign / line 43 row 82
+true 19 sign * line 43 row 99
+true 678 sign * line 43 row 107
+true 839 sign * line 43 row 120
+true 70 sign * line 43 row 130
+true 270 sign $ line 44 row 18
+true 147 sign * line 44 row 30
+true 700 sign * line 44 row 34
+true 470 sign * line 44 row 63
+true 849 sign * line 44 row 67
+true 625 sign * line 44 row 77
+true 218 sign * line 44 row 89
+true 936 sign $ line 44 row 116
+true 953 sign * line 45 row 8
+true 856 sign * line 45 row 13
+true 910 sign * line 45 row 43
+true 504 sign $ line 45 row 54
+true 830 sign $ line 45 row 93
+true 874 sign * line 45 row 104
+true 514 sign * line 45 row 125
+true 772 sign * line 45 row 129
+true 698 sign @ line 45 row 134
+false 814 line 46 row 1
+true 460 sign @ line 46 row 23
+true 49 sign & line 46 row 67
+true 804 sign $ line 46 row 75
+true 394 sign & line 46 row 80
+true 747 sign * line 46 row 121
+false 876 line 47 row 9
+false 607 line 47 row 39
+false 15 line 47 row 48
+false 8 line 47 row 58
+true 706 sign * line 47 row 88
+true 767 sign * line 47 row 105
+false 972 line 47 row 111
+true 912 sign * line 47 row 125
+true 805 sign * line 48 row 14
+true 83 sign # line 48 row 20
+true 156 sign * line 48 row 43
+false 924 line 48 row 60
+true 719 sign = line 48 row 66
+true 514 sign * line 48 row 84
+true 936 sign * line 48 row 115
+true 960 sign % line 48 row 129
+true 364 sign * line 48 row 134
+false 692 line 49 row 4
+true 220 sign $ line 49 row 27
+true 667 sign * line 49 row 33
+true 645 sign * line 49 row 37
+true 977 sign - line 49 row 73
+true 628 sign * line 49 row 78
+true 415 sign * line 49 row 89
+true 386 sign / line 49 row 119
+true 891 sign * line 50 row 44
+true 948 sign * line 50 row 48
+false 479 line 50 row 53
+true 385 sign * line 50 row 95
+true 173 sign @ line 50 row 108
+true 113 sign * line 50 row 115
+true 765 sign # line 50 row 123
+true 779 sign * line 50 row 128
+true 643 sign * line 50 row 137
+true 754 sign $ line 51 row 12
+false 8 line 51 row 21
+true 599 sign & line 51 row 34
+true 373 sign * line 51 row 61
+true 814 sign * line 51 row 77
+false 537 line 51 row 84
+true 307 sign * line 51 row 88
+true 552 sign * line 51 row 101
+true 111 sign * line 52 row 24
+true 874 sign $ line 52 row 29
+false 887 line 52 row 38
+true 820 sign * line 52 row 45
+true 73 sign % line 52 row 57
+true 196 sign * line 52 row 72
+false 260 line 52 row 96
+true 915 sign * line 52 row 113
+true 774 sign * line 52 row 117
+true 670 sign * line 53 row 11
+true 484 sign * line 53 row 15
+false 624 line 53 row 19
+true 17 sign * line 53 row 62
+true 91 sign @ line 53 row 80
+true 703 sign * line 53 row 85
+true 705 sign * line 53 row 89
+true 298 sign % line 53 row 107
+true 160 sign / line 53 row 129
+true 256 sign * line 54 row 6
+true 833 sign * line 54 row 43
+false 319 line 54 row 58
+true 310 sign & line 54 row 66
+true 778 sign * line 54 row 70
+true 214 sign * line 54 row 97
+true 195 sign * line 54 row 119
+false 7 line 54 row 136
+true 229 sign & line 55 row 22
+true 23 sign @ line 55 row 51
+true 82 sign * line 55 row 62
+false 604 line 55 row 77
+true 428 sign # line 55 row 82
+true 258 sign & line 55 row 90
+true 303 sign * line 55 row 114
+true 198 sign * line 55 row 126
+true 554 sign * line 56 row 5
+true 262 sign - line 56 row 11
+true 621 sign * line 56 row 17
+true 959 sign * line 56 row 32
+true 475 sign * line 56 row 39
+false 28 line 56 row 44
+true 836 sign $ line 56 row 58
+true 11 sign * line 56 row 66
+true 68 sign * line 56 row 69
+true 602 sign * line 56 row 95
+true 73 sign * line 56 row 100
+true 471 sign + line 56 row 108
+true 161 sign * line 56 row 118
+true 61 sign * line 56 row 122
+true 652 sign $ line 56 row 137
+true 324 sign * line 57 row 62
+true 950 sign # line 57 row 90
+true 921 sign * line 57 row 112
+true 551 sign * line 57 row 126
+true 799 sign $ line 57 row 132
+true 306 sign = line 58 row 16
+true 19 sign / line 58 row 21
+true 397 sign * line 58 row 25
+true 127 sign * line 58 row 33
+true 794 sign * line 58 row 54
+true 461 sign * line 58 row 67
+true 997 sign & line 58 row 74
+true 429 sign - line 58 row 85
+true 923 sign * line 58 row 99
+false 950 line 59 row 3
+true 225 sign * line 59 row 11
+true 667 sign * line 59 row 29
+true 743 sign * line 59 row 40
+true 560 sign * line 59 row 44
+true 678 sign * line 59 row 61
+false 240 line 59 row 103
+true 727 sign & line 60 row 36
+true 229 sign * line 60 row 57
+true 20 sign * line 60 row 67
+true 508 sign @ line 60 row 81
+true 464 sign * line 60 row 88
+false 312 line 60 row 99
+false 399 line 60 row 107
+true 945 sign * line 60 row 112
+true 430 sign * line 60 row 118
+true 239 sign * line 61 row 13
+true 453 sign * line 61 row 23
+true 908 sign * line 61 row 63
+true 339 sign * line 61 row 75
+true 394 sign @ line 61 row 125
+true 606 sign * line 62 row 2
+true 647 sign / line 62 row 7
+true 544 sign / line 62 row 32
+true 765 sign * line 62 row 41
+true 908 sign / line 62 row 57
+false 318 line 62 row 81
+true 393 sign * line 62 row 87
+false 481 line 62 row 106
+true 445 sign * line 62 row 110
+true 714 sign * line 62 row 131
+false 859 line 63 row 15
+true 362 sign $ line 63 row 24
+true 352 sign * line 63 row 37
+true 736 sign = line 63 row 51
+false 970 line 63 row 63
+true 138 sign * line 63 row 73
+true 850 sign * line 63 row 101
+true 529 sign * line 63 row 116
+true 561 sign * line 63 row 135
+true 841 sign * line 64 row 3
+true 225 sign * line 64 row 44
+true 470 sign * line 64 row 56
+true 280 sign * line 64 row 77
+true 109 sign * line 64 row 84
+true 441 sign % line 64 row 93
+true 785 sign * line 64 row 105
+true 281 sign * line 64 row 112
+true 576 sign # line 64 row 124
+true 929 sign @ line 64 row 130
+true 146 sign * line 65 row 12
+true 34 sign * line 65 row 17
+true 965 sign * line 65 row 20
+false 272 line 65 row 29
+true 418 sign * line 65 row 52
+true 918 sign = line 65 row 67
+true 862 sign * line 65 row 72
+true 365 sign # line 65 row 120
+true 821 sign * line 66 row 2
+true 388 sign * line 66 row 6
+true 781 sign $ line 66 row 37
+true 778 sign * line 66 row 46
+true 839 sign - line 66 row 60
+true 779 sign * line 66 row 77
+true 635 sign * line 66 row 89
+true 243 sign * line 66 row 99
+true 493 sign * line 66 row 132
+true 991 sign * line 67 row 16
+false 463 line 67 row 23
+true 211 sign * line 67 row 29
+true 291 sign & line 67 row 51
+true 970 sign - line 67 row 83
+true 153 sign # line 67 row 94
+true 81 sign + line 67 row 104
+true 614 sign * line 67 row 116
+true 720 sign * line 67 row 122
+true 63 sign * line 67 row 129
+false 714 line 68 row 12
+true 127 sign * line 68 row 33
+true 81 sign # line 68 row 42
+true 307 sign + line 68 row 68
+true 948 sign * line 68 row 90
+true 565 sign * line 68 row 98
+true 907 sign * line 68 row 107
+false 145 line 69 row 86
+true 365 sign * line 69 row 111
+false 590 line 69 row 116
+true 711 sign * line 69 row 121
+true 830 sign * line 69 row 128
+false 511 line 69 row 135
+true 136 sign * line 70 row 11
+true 810 sign + line 70 row 20
+true 9 sign - line 70 row 27
+true 178 sign # line 70 row 48
+true 440 sign * line 70 row 63
+true 696 sign * line 70 row 70
+true 792 sign & line 70 row 76
+true 260 sign / line 70 row 93
+true 18 sign * line 70 row 104
+true 364 sign * line 71 row 7
+true 193 sign - line 71 row 16
+true 5 sign * line 71 row 33
+true 390 sign + line 71 row 40
+true 580 sign / line 71 row 54
+true 630 sign * line 71 row 59
+true 324 sign * line 71 row 88
+false 463 line 71 row 97
+true 846 sign * line 71 row 129
+false 868 line 72 row 25
+true 593 sign * line 72 row 35
+false 384 line 72 row 45
+false 201 line 72 row 77
+true 343 sign * line 72 row 103
+false 852 line 72 row 108
+false 96 line 72 row 117
+true 303 sign * line 73 row 7
+true 64 sign * line 73 row 12
+false 493 line 73 row 59
+false 694 line 73 row 71
+true 833 sign * line 73 row 86
+true 758 sign = line 73 row 93
+true 266 sign & line 73 row 120
+true 531 sign $ line 73 row 129
+true 823 sign * line 74 row 15
+false 461 line 74 row 52
+false 295 line 74 row 67
+true 100 sign $ line 74 row 80
+true 884 sign * line 74 row 97
+true 433 sign & line 74 row 102
+true 929 sign * line 74 row 109
+false 521 line 75 row 1
+false 120 line 75 row 48
+true 996 sign % line 75 row 89
+true 971 sign * line 75 row 114
+false 227 line 76 row 11
+true 440 sign & line 76 row 29
+false 308 line 76 row 34
+true 152 sign % line 76 row 57
+true 82 sign / line 76 row 77
+false 660 line 76 row 80
+true 265 sign % line 76 row 85
+true 599 sign * line 76 row 94
+true 646 sign * line 76 row 110
+false 505 line 76 row 119
+true 547 sign $ line 76 row 126
+true 983 sign - line 76 row 135
+true 157 sign @ line 77 row 6
+true 22 sign / line 77 row 41
+true 12 sign # line 77 row 68
+true 428 sign $ line 77 row 106
+true 641 sign * line 77 row 114
+true 398 sign + line 78 row 12
+false 381 line 78 row 20
+false 248 line 78 row 30
+true 492 sign = line 78 row 49
+true 631 sign & line 78 row 60
+true 128 sign * line 78 row 84
+true 577 sign * line 78 row 96
+true 792 sign $ line 78 row 119
+true 28 sign / line 79 row 27
+true 41 sign * line 79 row 38
+true 386 sign * line 79 row 45
+true 15 sign * line 79 row 54
+true 937 sign * line 79 row 69
+false 660 line 79 row 78
+true 915 sign / line 79 row 89
+true 594 sign # line 79 row 101
+true 964 sign * line 79 row 129
+true 216 sign * line 80 row 15
+true 351 sign & line 80 row 31
+true 449 sign * line 80 row 65
+true 328 sign * line 80 row 83
+true 270 sign * line 80 row 96
+true 900 sign % line 80 row 112
+true 930 sign $ line 80 row 124
+true 941 sign * line 80 row 134
+true 552 sign * line 81 row 3
+true 224 sign * line 81 row 7
+true 402 sign * line 81 row 11
+false 895 line 81 row 21
+true 302 sign * line 81 row 37
+true 462 sign = line 81 row 41
+true 248 sign * line 81 row 48
+true 374 sign * line 81 row 54
+true 142 sign $ line 81 row 60
+false 535 line 81 row 79
+true 884 sign * line 81 row 108
+true 71 sign + line 81 row 118
+true 997 sign * line 81 row 128
+false 270 line 82 row 28
+true 760 sign * line 82 row 72
+true 151 sign - line 82 row 85
+false 508 line 82 row 90
+true 21 sign * line 82 row 103
+true 341 sign * line 83 row 9
+true 898 sign % line 83 row 15
+true 612 sign - line 83 row 32
+true 103 sign - line 83 row 46
+true 895 sign + line 83 row 63
+false 99 line 83 row 94
+true 939 sign * line 83 row 107
+true 295 sign $ line 84 row 22
+true 591 sign * line 84 row 38
+true 458 sign $ line 84 row 58
+true 374 sign * line 84 row 68
+true 70 sign * line 84 row 73
+true 284 sign @ line 84 row 83
+true 283 sign * line 84 row 102
+true 340 sign * line 84 row 114
+true 89 sign & line 84 row 119
+true 820 sign = line 84 row 127
+true 932 sign * line 84 row 136
+true 284 sign * line 85 row 7
+false 826 line 85 row 17
+true 838 sign + line 85 row 29
+true 89 sign * line 85 row 95
+true 818 sign * line 86 row 11
+true 741 sign * line 86 row 40
+true 175 sign * line 86 row 46
+true 495 sign * line 86 row 50
+false 489 line 86 row 69
+true 469 sign * line 86 row 107
+true 565 sign * line 86 row 112
+true 613 sign * line 86 row 129
+true 32 sign * line 86 row 133
+false 788 line 87 row 1
+true 982 sign / line 87 row 5
+true 468 sign & line 87 row 21
+false 952 line 87 row 54
+true 73 sign + line 87 row 61
+true 588 sign * line 87 row 78
+true 336 sign * line 87 row 84
+true 498 sign * line 87 row 99
+true 805 sign * line 87 row 103
+true 332 sign % line 87 row 118
+true 884 sign * line 88 row 9
+false 127 line 88 row 17
+true 980 sign - line 88 row 27
+false 214 line 88 row 43
+true 336 sign + line 88 row 92
+true 812 sign * line 88 row 110
+true 43 sign * line 88 row 115
+true 475 sign * line 88 row 124
+true 908 sign * line 88 row 129
+true 294 sign % line 89 row 13
+true 681 sign # line 89 row 32
+true 1 sign = line 89 row 48
+true 647 sign * line 89 row 57
+true 180 sign * line 89 row 73
+true 895 sign * line 89 row 78
+true 760 sign * line 89 row 83
+true 91 sign * line 89 row 107
+false 674 line 89 row 134
+false 24 line 90 row 4
+true 739 sign * line 90 row 26
+true 657 sign = line 90 row 42
+true 149 sign - line 90 row 52
+true 296 sign * line 90 row 63
+true 737 sign * line 90 row 67
+true 553 sign % line 90 row 87
+true 473 sign * line 90 row 110
+true 474 sign * line 90 row 121
+true 694 sign # line 91 row 8
+true 117 sign * line 91 row 57
+true 953 sign $ line 91 row 101
+true 793 sign * line 91 row 105
+true 653 sign % line 91 row 128
+true 635 sign # line 91 row 136
+true 519 sign * line 92 row 15
+true 963 sign % line 92 row 22
+true 640 sign * line 92 row 27
+true 718 sign * line 92 row 36
+true 693 sign * line 92 row 65
+true 83 sign * line 92 row 69
+false 463 line 93 row 40
+true 39 sign * line 93 row 55
+true 867 sign * line 93 row 59
+true 200 sign * line 93 row 73
+true 766 sign * line 93 row 94
+true 893 sign * line 93 row 106
+true 262 sign / line 93 row 117
+true 89 sign * line 93 row 121
+true 777 sign - line 93 row 124
+true 476 sign - line 93 row 133
+true 790 sign @ line 94 row 24
+true 983 sign * line 94 row 51
+true 906 sign * line 94 row 110
+false 417 line 95 row 12
+false 619 line 95 row 17
+true 944 sign * line 95 row 71
+true 973 sign * line 95 row 77
+true 664 sign * line 95 row 92
+true 203 sign @ line 95 row 104
+true 504 sign * line 95 row 122
+true 824 sign * line 95 row 126
+true 626 sign % line 95 row 132
+true 149 sign * line 95 row 136
+true 316 sign / line 96 row 4
+true 847 sign * line 96 row 22
+true 382 sign * line 96 row 57
+true 1 sign * line 96 row 63
+true 825 sign # line 96 row 82
+true 223 sign * line 96 row 87
+true 816 sign * line 97 row 16
+true 744 sign * line 97 row 29
+true 771 sign % line 97 row 34
+false 628 line 97 row 38
+true 433 sign * line 97 row 78
+true 303 sign + line 97 row 114
+true 569 sign * line 97 row 123
+true 725 sign # line 97 row 128
+true 221 sign * line 97 row 137
+true 543 sign & line 98 row 7
+true 774 sign * line 98 row 20
+true 461 sign * line 98 row 52
+true 357 sign * line 98 row 57
+true 131 sign * line 98 row 62
+true 583 sign * line 98 row 68
+true 892 sign $ line 98 row 73
+true 627 sign * line 98 row 86
+true 978 sign + line 98 row 92
+true 630 sign - line 98 row 97
+true 653 sign # line 98 row 104
+true 352 sign + line 99 row 1
+true 540 sign * line 99 row 16
+true 509 sign * line 99 row 31
+true 504 sign * line 99 row 35
+true 109 sign * line 99 row 45
+false 431 line 99 row 112
+true 486 sign * line 99 row 117
+false 250 line 99 row 122
+true 774 sign * line 100 row 12
+true 343 sign $ line 100 row 20
+true 859 sign * line 100 row 68
+true 499 sign # line 100 row 76
+true 448 sign % line 100 row 126
+false 425 line 100 row 133
+true 857 sign * line 101 row 16
+true 26 sign * line 101 row 29
+true 705 sign * line 101 row 44
+true 491 sign - line 101 row 49
+true 128 sign & line 101 row 53
+true 871 sign * line 101 row 62
+true 659 sign @ line 101 row 80
+true 119 sign / line 101 row 103
+true 80 sign % line 101 row 112
+false 770 line 101 row 115
+true 25 sign * line 101 row 119
+true 66 sign * line 102 row 7
+true 453 sign + line 102 row 32
+true 497 sign $ line 102 row 39
+true 833 sign * line 102 row 88
+true 196 sign * line 103 row 15
+true 535 sign * line 103 row 26
+true 233 sign * line 103 row 56
+true 230 sign * line 103 row 60
+true 238 sign * line 103 row 64
+true 56 sign * line 103 row 94
+false 757 line 103 row 108
+true 620 sign * line 103 row 118
+true 694 sign - line 103 row 134
+true 226 sign * line 104 row 4
+true 122 sign @ line 104 row 8
+false 116 line 104 row 21
+true 78 sign $ line 104 row 39
+true 652 sign / line 104 row 51
+true 589 sign + line 104 row 76
+true 260 sign * line 104 row 85
+true 633 sign # line 104 row 90
+true 97 sign * line 104 row 97
+true 153 sign % line 104 row 103
+true 142 sign $ line 104 row 128
+true 493 sign * line 105 row 16
+true 883 sign * line 105 row 29
+true 862 sign % line 105 row 35
+true 199 sign % line 105 row 55
+true 100 sign + line 105 row 80
+true 445 sign * line 105 row 119
+true 25 sign $ line 105 row 125
+true 372 sign * line 106 row 12
+true 388 sign & line 106 row 24
+true 13 sign * line 106 row 42
+true 506 sign * line 106 row 45
+true 855 sign / line 106 row 61
+true 456 sign - line 106 row 68
+true 373 sign * line 106 row 97
+true 976 sign * line 106 row 113
+true 243 sign * line 106 row 129
+true 965 sign * line 106 row 133
+true 234 sign * line 107 row 6
+true 200 sign * line 107 row 20
+true 659 sign * line 107 row 28
+true 353 sign @ line 107 row 74
+true 451 sign - line 107 row 83
+true 997 sign @ line 107 row 107
+true 205 sign * line 108 row 32
+true 346 sign - line 108 row 57
+false 890 line 108 row 90
+true 455 sign * line 108 row 95
+true 819 sign * line 108 row 103
+true 673 sign * line 108 row 111
+true 733 sign * line 108 row 116
+true 473 sign * line 108 row 120
+true 970 sign @ line 109 row 11
+true 132 sign * line 109 row 17
+true 509 sign * line 109 row 28
+true 437 sign # line 109 row 50
+true 290 sign & line 109 row 63
+true 489 sign / line 109 row 71
+true 59 sign * line 109 row 85
+true 961 sign + line 109 row 129
+false 972 line 110 row 3
+false 192 line 110 row 7
+true 152 sign $ line 110 row 21
+false 876 line 110 row 37
+true 993 sign # line 110 row 43
+true 449 sign + line 110 row 59
+true 335 sign # line 110 row 80
+true 184 sign * line 110 row 90
+true 723 sign * line 110 row 102
+false 899 line 111 row 16
+true 470 sign @ line 111 row 25
+true 82 sign - line 111 row 29
+true 908 sign $ line 111 row 33
+false 10 line 111 row 50
+true 375 sign * line 111 row 71
+true 635 sign * line 111 row 85
+true 538 sign * line 111 row 109
+true 228 sign * line 111 row 120
+true 587 sign + line 111 row 137
+false 751 line 112 row 4
+true 996 sign * line 112 row 54
+true 351 sign * line 112 row 61
+true 422 sign * line 112 row 75
+true 246 sign * line 112 row 89
+true 393 sign # line 112 row 100
+true 168 sign * line 112 row 105
+true 576 sign $ line 112 row 115
+true 652 sign % line 112 row 125
+true 784 sign * line 112 row 131
+true 997 sign * line 113 row 21
+true 49 sign $ line 113 row 41
+true 118 sign * line 113 row 65
+true 998 sign * line 113 row 80
+false 2 line 113 row 96
+true 749 sign - line 114 row 11
+false 612 line 114 row 16
+false 140 line 114 row 35
+true 659 sign * line 114 row 48
+true 750 sign * line 114 row 56
+true 965 sign * line 114 row 61
+true 187 sign * line 114 row 72
+true 973 sign $ line 114 row 84
+true 859 sign * line 114 row 101
+true 908 sign # line 114 row 106
+true 951 sign @ line 114 row 115
+true 104 sign * line 114 row 123
+true 749 sign * line 114 row 131
+true 302 sign * line 115 row 2
+true 257 sign * line 115 row 20
+true 851 sign * line 115 row 66
+true 444 sign * line 115 row 80
+true 58 sign * line 115 row 93
+true 119 sign * line 115 row 96
+false 162 line 115 row 111
+true 260 sign * line 116 row 14
+true 324 sign * line 116 row 26
+true 262 sign * line 116 row 45
+true 147 sign * line 116 row 51
+true 245 sign * line 116 row 76
+true 604 sign * line 116 row 103
+false 47 line 116 row 107
+true 333 sign * line 116 row 124
+true 926 sign * line 117 row 18
+true 248 sign * line 117 row 30
+true 660 sign + line 117 row 59
+true 438 sign = line 117 row 85
+true 250 sign * line 117 row 91
+true 622 sign * line 117 row 111
+true 103 sign / line 117 row 130
+true 543 sign # line 117 row 137
+true 223 sign @ line 118 row 14
+true 933 sign * line 118 row 45
+true 605 sign * line 118 row 73
+true 285 sign * line 118 row 78
+true 622 sign * line 118 row 118
+true 873 sign * line 119 row 9
+true 6 sign & line 119 row 25
+true 530 sign & line 119 row 28
+true 251 sign # line 119 row 38
+true 17 sign + line 119 row 50
+true 529 sign / line 119 row 54
+true 945 sign * line 119 row 94
+false 905 line 119 row 100
+true 505 sign * line 119 row 112
+true 181 sign $ line 119 row 124
+true 60 sign & line 120 row 6
+true 94 sign $ line 120 row 21
+true 746 sign * line 120 row 61
+true 768 sign * line 120 row 65
+true 849 sign * line 120 row 76
+true 985 sign * line 120 row 86
+true 445 sign * line 120 row 90
+true 201 sign * line 120 row 118
+true 307 sign % line 120 row 128
+true 838 sign * line 121 row 11
+true 365 sign * line 121 row 15
+true 595 sign + line 121 row 34
+false 256 line 121 row 81
+false 533 line 121 row 98
+true 84 sign * line 121 row 107
+true 564 sign - line 121 row 135
+true 855 sign * line 122 row 6
+false 854 line 122 row 39
+true 20 sign - line 122 row 51
+true 739 sign / line 122 row 55
+true 992 sign / line 122 row 113
+true 981 sign * line 123 row 2
+true 75 sign * line 123 row 18
+true 147 sign % line 123 row 22
+true 390 sign * line 123 row 26
+false 842 line 123 row 47
+true 997 sign * line 123 row 59
+true 145 sign + line 123 row 68
+true 593 sign * line 123 row 78
+true 769 sign * line 123 row 107
+true 88 sign * line 123 row 121
+true 323 sign @ line 123 row 137
+true 911 sign * line 124 row 7
+true 997 sign @ line 124 row 30
+true 15 sign * line 124 row 75
+true 642 sign & line 124 row 85
+true 327 sign # line 124 row 92
+true 148 sign * line 124 row 103
+true 268 sign * line 124 row 124
+true 127 sign * line 125 row 3
+true 856 sign * line 125 row 43
+false 284 line 125 row 54
+true 753 sign * line 125 row 58
+true 469 sign * line 125 row 63
+true 611 sign = line 125 row 79
+true 63 sign * line 125 row 114
+true 346 sign @ line 125 row 130
+false 758 line 126 row 7
+true 670 sign * line 126 row 24
+true 431 sign * line 126 row 48
+true 460 sign * line 126 row 67
+true 988 sign + line 126 row 72
+true 538 sign & line 126 row 119
+true 697 sign # line 126 row 137
+true 311 sign # line 127 row 34
+true 37 sign = line 127 row 39
+true 524 sign * line 127 row 63
+true 315 sign = line 127 row 77
+false 316 line 127 row 82
+true 902 sign - line 127 row 87
+true 864 sign * line 127 row 95
+true 529 sign % line 127 row 105
+true 392 sign * line 127 row 113
+true 859 sign # line 127 row 123
+true 156 sign @ line 127 row 128
+false 610 line 128 row 21
+true 478 sign % line 128 row 30
+true 335 sign * line 128 row 49
+true 337 sign * line 128 row 68
+true 828 sign * line 128 row 99
+true 530 sign * line 128 row 133
+true 191 sign * line 128 row 137
+true 892 sign * line 129 row 2
+true 914 sign $ line 129 row 6
+false 283 line 129 row 58
+false 208 line 129 row 81
+true 626 sign % line 129 row 92
+false 40 line 129 row 106
+false 443 line 129 row 113
+true 626 sign * line 129 row 118
+true 963 sign % line 130 row 26
+true 645 sign * line 130 row 33
+true 694 sign * line 130 row 45
+true 539 sign * line 130 row 66
+true 317 sign # line 130 row 74
+true 555 sign & line 130 row 102
+true 450 sign $ line 130 row 123
+true 412 sign * line 131 row 3
+false 422 line 131 row 8
+true 373 sign % line 131 row 13
+true 713 sign $ line 131 row 20
+true 778 sign * line 131 row 49
+true 159 sign % line 131 row 53
+true 978 sign + line 131 row 85
+true 647 sign * line 131 row 114
+true 885 sign + line 131 row 130
+true 58 sign & line 132 row 32
+true 383 sign * line 132 row 45
+true 185 sign * line 132 row 64
+true 376 sign * line 132 row 70
+true 158 sign * line 132 row 90
+true 398 sign + line 132 row 108
+true 203 sign $ line 132 row 124
+true 784 sign & line 132 row 136
+true 360 sign * line 133 row 7
+true 914 sign * line 133 row 13
+true 875 sign * line 133 row 17
+true 104 sign & line 133 row 21
+false 673 line 133 row 35
+false 590 line 133 row 97
+true 417 sign % line 133 row 101
+true 60 sign $ line 133 row 105
+true 386 sign - line 134 row 42
+true 592 sign * line 134 row 46
+true 445 sign * line 134 row 51
+true 74 sign * line 134 row 69
+true 864 sign * line 134 row 91
+true 370 sign - line 134 row 109
+true 75 sign * line 134 row 117
+true 125 sign * line 134 row 127
+true 102 sign * line 134 row 131
+false 292 line 134 row 137
+true 950 sign * line 135 row 9
+true 522 sign * line 135 row 13
+true 422 sign & line 135 row 18
+true 204 sign % line 135 row 23
+false 918 line 135 row 33
+false 228 line 135 row 61
+true 918 sign & line 135 row 80
+true 951 sign $ line 135 row 120
+false 228 line 136 row 67
+true 840 sign $ line 136 row 72
+true 584 sign / line 136 row 97
+true 72 sign * line 136 row 106
+true 563 sign * line 136 row 115
+false 717 line 136 row 124
+true 113 sign * line 136 row 129
+true 250 sign @ line 137 row 3
+true 817 sign * line 137 row 17
+true 614 sign * line 137 row 38
+false 224 line 137 row 44
+true 164 sign * line 137 row 50
+false 506 line 137 row 56
+false 362 line 137 row 81
+true 873 sign * line 137 row 88
+true 568 sign * line 137 row 102
+true 920 sign # line 137 row 110
+true 159 sign * line 138 row 7
+true 553 sign # line 138 row 27
+true 294 sign # line 138 row 32
+true 42 sign % line 138 row 72
+true 884 sign - line 138 row 95
+true 950 sign / line 138 row 121
+true 482 sign * line 138 row 127
+true 611 sign * line 138 row 132
+true 978 sign * line 139 row 14
+true 275 sign * line 139 row 18
+true 974 sign * line 139 row 38
+true 81 sign * line 139 row 49
+true 405 sign $ line 139 row 76
+true 224 sign * line 139 row 88
+true 409 sign * line 139 row 108
+true 20 sign * line 139 row 112
+false 122 line 140 row 2
+true 273 sign * line 140 row 6
+false 759 line 140 row 24
+false 137 line 140 row 31
+true 574 sign * line 140 row 45
+true 229 sign / line 140 row 60
+true 497 sign * line 140 row 98
+true 41 sign * line 140 row 102
+true 872 sign * line 140 row 132
+true 78 sign * line 140 row 136
+497027
